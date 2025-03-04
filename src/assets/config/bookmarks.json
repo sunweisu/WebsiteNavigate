@@ -1,0 +1,83 @@
+[
+  {
+    "title": "收藏",
+    "menuIcon": "⭐",
+    "items": [
+  {
+    "title": "简单故事书",
+    "link": "https://www.sunweisu.xyz/storybook/",
+    "menuIcon": "⭐",
+    "src": "https://s2.loli.net/2024/08/17/PhertXdzYC34ONm.png"
+  },
+  {
+    "title": "图书馆",
+    "link": "https://www.sunweisu.xyz/book/",
+    "src": "https://s2.loli.net/2024/08/17/PhertXdzYC34ONm.png"
+  },
+  {
+    "title": "千年科技学院",
+    "link": "https://school.sunweisu.xyz/1",
+    "src": "https://s2.loli.net/2025/02/25/pq9w32yiue6dLAx.png"
+  }
+    ]},
+  {
+    "title": "社区",
+    "items": [
+      {
+        "title": "Github",
+        "link": "github.com/trending"
+      },
+      {
+        "title": "吾爱破解",
+        "link": "https://www.52pojie.cn/",
+        "src" : "https://www.52pojie.cn/favicon.ico"
+      },
+      {
+        "title": "百度贴吧",
+        "link": "https://tieba.baidu.com/"
+      },
+      {
+        "title": "博客园",
+        "link": "https://www.cnblogs.com/"
+      },
+      {
+        "title": "LINUXDO",
+        "link": "https://linux.do/"
+      },
+      {
+        "title": "bilibili",
+        "link": "https://www.bilibili.com/"
+      }
+    ]
+  },
+  {
+    "title": "致谢",
+    "menuIcon": "💘",
+    "items": [
+      {
+        "title": "Vue",
+        "link": "vuejs.org"
+      },
+      {
+        "title": "NaiveUI",
+        "link": "naiveui.com"
+      },
+      {
+        "title": "Vite",
+        "link": "vitejs.dev"
+      },
+      {
+        "title": "TypeScript",
+        "link": "typescriptlang.org"
+      },
+      {
+        "title": "CodeMirror",
+        "link": "codemirror.net"
+      },
+      {
+        "title": "FaviconKit",
+        "link": "faviconkit.com"
+      }
+    ]
+  }
+]

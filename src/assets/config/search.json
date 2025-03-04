@@ -1,0 +1,10 @@
+{
+  "d": ["DuckGo", "https://duckduckgo.com/?q="],
+  "g": ["google", "https://www.google.com/search?q="],
+  "b": ["Bing", "https://cn.bing.com/search?q="],
+  "bd": ["BaiDu", "https://www.baidu.com/s?wd="],
+  "y": ["yandex","https://yandex.com/search/?text="],
+  "t": ["tordex","https://tordex.live/search.php?term="],
+  "gh": ["Github", "https://github.com/search?q="],
+  "w": ["Wiki", "https://zh.wikipedia.org/wiki/"]
+}
