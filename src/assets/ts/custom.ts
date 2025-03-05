@@ -46,9 +46,13 @@ if (client == "MOBILE") {
  * @param item - 书签项
  * @returns {string} - 图片地址
  */
-const getFavicon = (item: { link: string; src?: string }) => {
+const getFavicon = (item: { link?: string; src?: string }) => {
   if (item.src) {
     return item.src; // 直接使用 src 配置的图片
+  }
+
+  if (!item.link) {
+    return "/default-icon.png"; // 如果 link 不存在，返回默认图标
   }
 
   try {
