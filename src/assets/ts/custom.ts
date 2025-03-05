@@ -65,10 +65,9 @@ const getFavicon = (item: { link?: string; src?: string }) => {
   }
 };
 
-// 处理书签数据，添加 favicon 字段
 const processedBookMarks = bookMarks.map(category => ({
   ...category,
-  items: category.items.map(item => ({
+  items: (category.items || []).map(item => ({
     ...item,
     favicon: getFavicon(item), // 计算 favicon
   })),
