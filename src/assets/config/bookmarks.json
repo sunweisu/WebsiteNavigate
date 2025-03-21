@@ -11,7 +11,7 @@
   },
   {
     "title": "图书馆",
-    "link": "https://www.sunweisu.xyz/book/",
+    "link": "https://book.sunweisu.xyz/",
     "src": "https://s2.loli.net/2024/08/17/PhertXdzYC34ONm.png"
   },
   {
@@ -47,36 +47,6 @@
       {
         "title": "bilibili",
         "link": "https://www.bilibili.com/"
-      }
-    ]
-  },
-  {
-    "title": "致谢",
-    "menuIcon": "💘",
-    "items": [
-      {
-        "title": "Vue",
-        "link": "vuejs.org"
-      },
-      {
-        "title": "NaiveUI",
-        "link": "naiveui.com"
-      },
-      {
-        "title": "Vite",
-        "link": "vitejs.dev"
-      },
-      {
-        "title": "TypeScript",
-        "link": "typescriptlang.org"
-      },
-      {
-        "title": "CodeMirror",
-        "link": "codemirror.net"
-      },
-      {
-        "title": "FaviconKit",
-        "link": "faviconkit.com"
       }
     ]
   }

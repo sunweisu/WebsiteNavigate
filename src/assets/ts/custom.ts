@@ -29,7 +29,7 @@ const contentTheme = {
 const firstCardTitle = "✨ 常用";
 const cardTitlePrefix = "📎";
 
-const iconAPI = "https://api.faviconkit.com/";
+const iconAPI = "https://ico.kucat.cn/get.php?url=";
 
 const enginesMap: { [key: string]: string[] } = defaultEnginesMap;
 const defaultEngineKey = "d";
